@@ -64,4 +64,3 @@ $('.btn').click((e) => {
         n2 = parseFloat($results.text());
     }
 });
-
